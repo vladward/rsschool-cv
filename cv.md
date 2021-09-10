@@ -1,15 +1,15 @@
-#Vladislav Malohvey 
-####Programmer, Junior Web Developer
-####26 years
+# Vladislav Malohvey 
+#### Programmer, Junior Web Developer
+#### 26 years
 
-##Contacts
-####>Phone number: _+375 29 232 91 64_
-####Email: _vladward13@gmail.com_
-####GitHub: [_vladward_](https://github.com/vladward)
-####Skype: [_Vladislav Malohvey_](https://join.skype.com/invite/BSh5GyIYK2JU)
-####LinkedIn: [_Vladislav Malohvey_](https://by.linkedin.com/in/vlad-malohvey-129350219)
-####Telegram: _@vladward13_
-####Codewars: [_@lokovoko_](https://www.codewars.com/users/lokovoko)
+## Contacts
+#### Phone number: _+375 29 232 91 64_
+#### Email: _vladward13@gmail.com_
+#### GitHub: [_vladward_](https://github.com/vladward)
+#### Skype: [_Vladislav Malohvey_](https://join.skype.com/invite/BSh5GyIYK2JU)
+#### LinkedIn: [_Vladislav Malohvey_](https://by.linkedin.com/in/vlad-malohvey-129350219)
+#### Telegram: _@vladward13_
+#### Codewars: [_@lokovoko_](https://www.codewars.com/users/lokovoko)
 
 ##About me
 >Junior web developer. Motivated to learn new technologies in the field of web development. 
