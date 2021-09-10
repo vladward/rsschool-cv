@@ -25,14 +25,12 @@ function friend(friends){
 ```
 
 ##My skills
-<ul>
-<li> HTML </li>
-<li> CSS </li>
-<li> JavaScript </li>
-<li> React </li>
-<li> TypeScript </li>
-<li> BEM </li>
-</ul>
+* HTML
+* CSS
+* JavaScript
+* React
+* TypeScript
+* BEM
 
 ##Work experience
 * **Health care institution "Shchuchin Central District Hospital"** - _System administrator(2014 - 2016)_
