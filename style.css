@@ -34,3 +34,74 @@ p {
 ul {
     margin: 0;
 }
+
+.wrapper_main {
+    display: grid;
+    grid-template-rows: 9rem 9rem 10rem 10rem;
+    grid-template-columns: 1fr 450px;
+    grid-template-areas:
+        'h h'
+        'hf hf'
+        'ml mr'
+        'ml mr'
+        'ml mr'
+        'ml mr'
+        'ml mr'
+        'f f';
+    width: 900px;
+    padding: 0;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+
+.wrapper_headers_first {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    grid-area: h;
+    width: 900px;
+    padding: 0;
+    margin: 0 auto;
+    background: #d7d7d7;
+    align-items: center;
+}
+
+.user_photo {
+    display: block;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    right: 67%;
+    top: 25%;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.user_vlad {
+    position: absolute;
+    right: 23%;
+    top: 75%;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.wrapper_headers_second {
+    width: 900px;
+    grid-area: hf;
+    padding: 0;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+.user,
+.user_vlad {
+    text-transform: uppercase;
+    font-style: normal;
+}
+
+.user_spec,
+.user_location {
+    padding: 0;
+    margin: 0;
+}
+
