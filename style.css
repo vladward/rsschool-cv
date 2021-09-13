@@ -158,3 +158,35 @@ ul {
     color: #455db0;
 }
 
+.wrapper_headers_second {
+    width: 900px;
+    grid-area: hf;
+    padding: 0;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+.codejs {
+    background: #c3c3c3;
+}
+
+.footer {
+    grid-area: f;
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0 auto;
+    background: #d7d7d7;
+}
+
+.footer_icon {
+    width: 5rem;
+    height: 5rem;
+}
+.footer_icon--rsschool {
+    width: auto;
+}
+
