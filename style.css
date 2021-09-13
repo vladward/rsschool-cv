@@ -105,3 +105,56 @@ ul {
     margin: 0;
 }
 
+.wrapper_content_first {
+    grid-area: ml;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border-right: 1px solid #d7d7d7;
+}
+
+.lang,
+.code,
+.skills,
+.contacts {
+    width: 100%;
+}
+
+.inner {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.inner ul {
+    padding: 0;
+    margin: 0 auto;
+}
+
+.inner ul:first-child {
+    padding-right: 45px;
+}
+
+.inner ul:last-child {
+    padding-left: 45px;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+.contacts_item {
+    color: #000000;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.contacts_item a {
+    text-decoration: none;
+    color: #455db0;
+}
+
