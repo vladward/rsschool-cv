@@ -8,3 +8,29 @@ body {
     display: block;
     background-color: #7d7d7d;
 }
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+h2,
+h3,
+h5 {
+    color: #c3c3c3;
+    text-align: center;
+    margin: 0;
+}
+
+h3 {
+    text-align: center;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+}
