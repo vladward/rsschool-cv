@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Comfortaa', cursive;
+    padding: 10px;
+}
+
+body {
+    display: block;
+    background-color: #7d7d7d;
+}
